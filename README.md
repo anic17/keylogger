@@ -4,7 +4,7 @@ Can be configured by changing some settings.
 
 ## Compilation
 
-`tcc keylogger.c -o keylogger.exe -luser32`  
+`tcc keylogger.c -o keylogger.exe -l user32`  
 Needs `user32.dll` library to register the keypresses.
 
 ## Disclaimer
