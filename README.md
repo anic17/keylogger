@@ -9,5 +9,5 @@ Needs `user32.dll` library to register the keypresses.
 
 ## Disclaimer
 
-**DISCLAIMER: Only use this for educational purposes, this hasn't been created by no means to harm people nor to use maliciously. USE IT AT YOUR OWN RISK!**
+**DISCLAIMER: Only use this for educational purposes, this hasn't been created by no means to harm people nor to use maliciously. USE IT AT YOUR OWN RISK!**  
 This program has been created ONLY with the purpose to learn WinAPI's keyboard and mouse functions.
